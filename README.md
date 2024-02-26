@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://github.com/Unknownbosss/Frontend-Mentor-QR-code/)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://curious-mermaid-8e6090.netlify.app/)
 
 ### Built with
 
